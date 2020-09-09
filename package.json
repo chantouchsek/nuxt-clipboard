@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-clipboard",
+  "version": "0.0.1",
+  "description": "A \"copy to clipboard\" module for Nuxt.js using vue-clipboard2",
+  "main": "lib/module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chantouch/nuxt-clipboard.git"
+  },
+  "keywords": [
+    "copy",
+    "vue",
+    "nuxt",
+    "clipboard",
+    "clipboard2",
+    "vue-clipboard2"
+  ],
+  "author": "Touch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chantouch/nuxt-clipboard/issues"
+  },
+  "homepage": "https://github.com/Chantouch/nuxt-clipboard#readme",
+  "dependencies": {
+    "vue-clipboard2": "^0.3.1"
+  }
+}
