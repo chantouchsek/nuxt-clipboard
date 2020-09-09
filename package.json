@@ -4,7 +4,8 @@
   "description": "A \"copy to clipboard\" module for Nuxt.js using vue-clipboard2",
   "main": "lib/module.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,8 @@
   "homepage": "https://github.com/Chantouch/nuxt-clipboard#readme",
   "dependencies": {
     "vue-clipboard2": "^0.3.1"
+  },
+  "devDependencies": {
+    "standard-version": "^9.0.0"
   }
 }
