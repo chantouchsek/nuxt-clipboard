@@ -1,10 +1,11 @@
 {
   "name": "nuxt-clipboard",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A \"copy to clipboard\" module for Nuxt.js using vue-clipboard2",
   "main": "lib/module.js",
+  "types": "types/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "release": "standard-version"
   },
   "repository": {
@@ -29,6 +30,7 @@
     "vue-clipboard2": "^0.3.1"
   },
   "devDependencies": {
-    "standard-version": "^9.0.0"
+    "standard-version": "^9.0.0",
+    "vue": "^2.6.12"
   }
 }
