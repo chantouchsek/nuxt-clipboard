@@ -1,3 +1,5 @@
+import { PluginFunction } from "vue";
+
 interface CopyTextInterface {
     action: string,
     text: string,
@@ -13,3 +15,9 @@ declare module 'vue/types/vue' {
         $copyText: (text: any, container?: object | HTMLElement) => Promise<CopyTextInterface>;
     }
 }
+
+declare class NuxtClipboard {
+    static install: PluginFunction<any>;
+}
+
+export default NuxtClipboard;
