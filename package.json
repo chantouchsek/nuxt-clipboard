@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chantouch/nuxt-clipboard.git"
+    "url": "git+https://github.com/chantouchsek/nuxt-clipboard.git"
   },
   "keywords": [
     "copy",
@@ -18,19 +18,20 @@
     "nuxt",
     "clipboard",
     "clipboard2",
-    "vue-clipboard2"
+    "vue-clipboard2",
+    "nuxt-clipboard",
   ],
   "author": "Touch",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Chantouch/nuxt-clipboard/issues"
+    "url": "https://github.com/chantouchsek/nuxt-clipboard/issues"
   },
-  "homepage": "https://github.com/Chantouch/nuxt-clipboard#readme",
+  "homepage": "https://github.com/chantouchsek/nuxt-clipboard#readme",
   "dependencies": {
     "vue-clipboard2": "^0.3.1"
   },
   "devDependencies": {
     "standard-version": "^9.3.1",
-    "vue": "^2.6.12"
+    "vue": "^2.6.14"
   }
 }
