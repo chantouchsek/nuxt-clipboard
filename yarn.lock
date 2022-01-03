@@ -1345,7 +1345,7 @@ split@^1.0.0:
   dependencies:
     through "2"
 
-standard-version@^9.3.1:
+standard-version@^9.3.2:
   version "9.3.2"
   resolved "https://registry.yarnpkg.com/standard-version/-/standard-version-9.3.2.tgz#28db8c1be66fd2d736f28f7c5de7619e64cd6dab"
   integrity sha512-u1rfKP4o4ew7Yjbfycv80aNMN2feTiqseAhUhrrx2XtdQGmu7gucpziXe68Z4YfHVqlxVEzo4aUA0Iu3VQOTgQ==
@@ -1517,7 +1517,7 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vue-clipboard2@^0.3.1:
+vue-clipboard2@^0.3.3:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/vue-clipboard2/-/vue-clipboard2-0.3.3.tgz#331fec85f9d4f175eb0d4feaef4d77338562af36"
   integrity sha512-aNWXIL2DKgJyY/1OOeITwAQz1fHaCIGvUFHf9h8UcoQBG5a74MkdhS/xqoYe7DNZdQmZRL+TAdIbtUs9OyVjbw==

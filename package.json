@@ -28,10 +28,10 @@
   },
   "homepage": "https://github.com/chantouchsek/nuxt-clipboard#readme",
   "dependencies": {
-    "vue-clipboard2": "^0.3.1"
+    "vue-clipboard2": "^0.3.3"
   },
   "devDependencies": {
-    "standard-version": "^9.3.1",
+    "standard-version": "^9.3.2",
     "vue": "^2.6.14"
   }
 }
