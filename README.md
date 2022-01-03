@@ -50,4 +50,4 @@ export default {
 
 [The MIT License (MIT)](./LICENSE.md)
 
-Copyright (c) Chantouch Sek
+Copyright (c) 2020 Chantouch Sek
