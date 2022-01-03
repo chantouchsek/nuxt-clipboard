@@ -6,7 +6,7 @@
   "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
-    "release": "standard-version"
+    "release": "standard-version && git push --follow-tags origin main && yarn publish"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
     "clipboard",
     "clipboard2",
     "vue-clipboard2",
-    "nuxt-clipboard",
+    "nuxt-clipboard"
   ],
   "author": "Touch",
   "license": "ISC",
