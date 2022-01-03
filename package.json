@@ -1,6 +1,6 @@
 {
   "name": "nuxt-clipboard",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A \"copy to clipboard\" module for Nuxt.js using vue-clipboard2",
   "main": "lib/module.js",
   "types": "index.d.ts",
