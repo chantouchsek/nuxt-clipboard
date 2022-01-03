@@ -21,7 +21,11 @@
     "vue-clipboard2",
     "nuxt-clipboard"
   ],
-  "author": "Touch",
+  "author": {
+    "email": "chantouchsek.cs83@gmail.com",
+    "name": "Chantouch Sek",
+    "url": "https://chantouch.me"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/chantouchsek/nuxt-clipboard/issues"
