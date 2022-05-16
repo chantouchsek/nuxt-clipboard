@@ -35,7 +35,7 @@
     "vue-clipboard2": "^0.3.3"
   },
   "devDependencies": {
-    "standard-version": "^9.3.2",
+    "standard-version": "^9.5.0",
     "vue": "^2.6.14"
   }
 }
