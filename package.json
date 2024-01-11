@@ -36,6 +36,6 @@
   },
   "devDependencies": {
     "standard-version": "^9.5.0",
-    "vue": "^2.6.14"
+    "vue": "^3.4.8"
   }
 }
